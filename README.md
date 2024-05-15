@@ -16,9 +16,9 @@ Tasks:
 1.60934 kilometers). You can achieve this by multiplying miles by 1.60934.
 • Store the converted distance in kilometers in a variable named kilometers.
 • Use console.log to print a message in the following format:
-
-
 The distance of 130 kms is equal to 209.2142 miles
+
+
 2.Evaluating a number game:
 • Prompt the user to enter a number.
 • Compare the entered number with a dynamic number value.
